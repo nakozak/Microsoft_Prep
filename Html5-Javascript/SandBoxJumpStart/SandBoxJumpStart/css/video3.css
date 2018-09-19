@@ -1,0 +1,73 @@
+﻿body {
+    /* Uncomment this to enable scrolling and zooming
+  touch-action: manipulation;
+  */
+    background-color: #1B1B1B;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+/*Start Video 3*/
+/* Color Properties*/
+/*p{*/
+/*color: #ffffff;
+    color: rgba(0,255,0,0.5);*/
+/*color: hsla(0,75%,20%,.5);*/
+/*color:#fff;
+    opacity:0.5;*/
+/*}*/
+/*table {*/
+/*Text Decoration*/
+/*text-shadow: 4px 4px 4px gray,0 0 10px blue;*/
+/* Change direction*/
+/*text-shadow: -4px -4px -4px gray,0 0 -10px blue;*/
+/*Fonts*/
+/*font-size: 24pt;*/
+/*font-style:italic;
+    font-weight:900;
+    font-size:24pt;
+    font-family:Calibri;*/
+/*}*/
+/*Font shorthand property*/
+/**
+    @font-face 
+    defines a font to be used elsewhere in your css
+    /* CSS Snippet
+    @font-face {
+        font-family: "niftyfont";
+        src: url("/type/nifty_n.woff") format(woff)
+    }
+    .nifty{
+        font-family:niftyfont;
+    }
+*/
+/*Columns*/
+/*.csscolumns section[role=main] > div{
+    margin-left:120px;
+}
+.csscolumns .columns{
+    columns: 400px;
+    overflow-x:scroll;
+    height: 600px;
+    padding:20px;
+}*/
+/*Box Properties*/
+#gibberish {
+    /*margin:20px;*/
+    /*padding:20px;*/
+    /*border: 20px solid yellow;*/
+    /*width:200px;
+    box-sizing:border-box;*/
+    border-left: 2px solid green;
+    padding-left: 20px;
+    margin-left: 3px
+}
+/*Visibility*/
+/*box shadow and border radius not generally encouraged in Windows 8 design*/
+/*linear and radial gradient not generally encouraged in Windows 8 design*/
+p::first-letter {
+    color: green;
+    /*background-image: linear-gradient(to right, black 0%, white 100%);*/
+    /*background-image:radial-gradient(circle at 50% 50%,black 0%, white 100%);*/
+}
+/*End Video 3*/

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-6EF9S6R</Machine>
+    <WindowsUser>Nick</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0c3117b6-0965-40a5-89e9-7378853cce38</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Nick</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>71DE73FEF3FB384A46809D32C8DB3F944003585047DD3E55652791313E1643DB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0c3117b6-0965-40a5-89e9-7378853cce38_1.0.0.0_neutral__chny7cy2kxrnj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0c3117b6-0965-40a5-89e9-7378853cce38_chny7cy2kxrnj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0c3117b6-0965-40a5-89e9-7378853cce38</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Nick</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-15T20:32:12.822</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-09-15T21:36:39.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-09-15T21:33:59.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-09-15T20:29:18.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\jsSandbox\jsSandbox\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-15T20:32:12.601</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

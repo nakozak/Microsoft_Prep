@@ -1,0 +1,57 @@
+﻿body {
+    /* Uncomment this to enable scrolling and zooming
+  touch-action: manipulation;
+  */
+    background-color: #1B1B1B;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+section {
+    margin-left: 120px;
+    margin-top: 45px
+}
+
+input[type="submit"] {
+    background-color: mediumpurple;
+    border: solid 2px;
+    border-color: white;
+    color: white;
+}
+/*Attribute Selector*/
+/*All Data Author Tags*/
+*[data-author] {
+    color: white;
+    font-weight: bold;
+}
+/*Ends With*/
+/*[data-author$=kozak]{
+    color:white;
+    font-weight:bold;
+}*/
+/*Begins With*/
+/*[data-author^=n] {
+    color: white;
+    font-weight: bold;
+}*/
+/*Matches any part with (Contains)*/
+/*[data-author*=nkozak] {
+    color: red;
+    font-weight: bold;
+}*/
+/*Selector Chaining*/
+/*table, ul{
+    color:green;
+}*/
+/*pseudo element*/
+/*p::first-line{
+    font-size:36px;
+    color:dodgerblue;
+}*/
+/*p:hover{
+    color:yellow;
+}*/
+/*Combinators*/
+/*#Div1 div{
+    color:red;
+}*/

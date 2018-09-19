@@ -1,0 +1,40 @@
+﻿body {
+    /* Uncomment this to enable scrolling and zooming
+  touch-action: manipulation;
+  */
+    background-color: #1B1B1B;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    color:white;
+}
+/*Layout Options and Animations*/
+/*
+    Legacy Layout
+        - Positioning
+        - display
+        - float
+        - z-index
+*/
+#id01{
+    position:absolute;
+    top:25px;
+    left:50px;
+    z-index:0;
+}
+#id02 {
+    position: relative;
+    top: 25px;
+    left: 50px;
+    z-index: 1;
+}
+.vanish{
+    display:none;
+}
+.centered{
+    display:table-cell;
+    min-height:200px;
+    min-width:200px;
+    text-align:center;
+    vertical-align:middle;
+    border: 1px solid #ff4444;
+}

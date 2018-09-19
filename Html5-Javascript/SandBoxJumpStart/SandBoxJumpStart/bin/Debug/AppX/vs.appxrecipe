@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-6EF9S6R</Machine>
+    <WindowsUser>Nick</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b910cb40-58dc-4699-bd74-ff0026564449</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Nick</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>602377163B9DD582C40B5EC34697ADC9484FF87EE2447883F349AA7B9AE747A5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b910cb40-58dc-4699-bd74-ff0026564449_1.0.0.0_neutral__chny7cy2kxrnj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b910cb40-58dc-4699-bd74-ff0026564449_chny7cy2kxrnj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b910cb40-58dc-4699-bd74-ff0026564449</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Nick</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T20:17:59.084</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\css\video1.css">
+      <PackagePath>css\video1.css</PackagePath>
+      <Modified>2018-09-14T19:39:53.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\css\video2.css">
+      <PackagePath>css\video2.css</PackagePath>
+      <Modified>2018-09-14T19:39:52.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\css\video3.css">
+      <PackagePath>css\video3.css</PackagePath>
+      <Modified>2018-09-14T19:39:49.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\css\video4.css">
+      <PackagePath>css\video4.css</PackagePath>
+      <Modified>2018-09-14T21:32:53.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-09-14T19:56:00.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T15:41:58.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\images\windows7phone.gif">
+      <PackagePath>images\windows7phone.gif</PackagePath>
+      <Modified>2018-09-14T20:12:21.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-09-15T20:26:03.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-09-15T20:27:53.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NIck\Documents\Microsoft_Prep\Html5-Javascript\SandBoxJumpStart\SandBoxJumpStart\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-14T20:17:58.993</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

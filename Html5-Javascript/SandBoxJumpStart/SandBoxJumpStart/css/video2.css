@@ -1,0 +1,41 @@
+﻿body {
+    /* Uncomment this to enable scrolling and zooming
+  touch-action: manipulation;
+  */
+    background-color: #1B1B1B;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+/*Give the same indent as the section to make it look nice*/
+#Div1 {
+    margin-left: 120px;
+    margin-top: 45px
+}
+    /*direct descendent*/
+    #Div1 > div {
+        color: purple;
+    }
+/*general sibling*/
+ul ~ div {
+    color: darkcyan;
+}
+/*immediate sibling*/
+li + li {
+    /*First element of the list is not colored, all preceding elements are*/
+    color: greenyellow;
+}
+/*pseudo classes*/
+li:first-child {
+    /*color the first element in the list*/
+    color: orange;
+}
+
+li:nth-of-type(2n+1) {
+    color: skyblue;
+}
+
+li:nth-child(2n+3) {
+    color: pink;
+}
+/*End Video 2 */
